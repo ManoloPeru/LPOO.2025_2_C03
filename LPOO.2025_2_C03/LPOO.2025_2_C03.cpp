@@ -141,7 +141,7 @@ public:
 
         // Crear la ruta
         rutasSalientes->Add(idDestino);
-        Console::WriteLine(">> Ruta creada: {0} → {1}",
+        Console::WriteLine(">> Ruta creada: {0} --> {1}",
             estaciones[idOrigen]->ToString(),
             estaciones[idDestino]->ToString());
     }
