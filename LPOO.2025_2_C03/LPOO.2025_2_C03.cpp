@@ -1,8 +1,6 @@
 ﻿#include "pch.h"
 #include <iostream>
 #include <string>
-#include <vector>
-#include <map>
 
 using namespace System;
 using namespace System::Collections::Generic;
